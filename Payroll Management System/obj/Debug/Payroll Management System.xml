@@ -1,0 +1,144 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PayrollManagementSystem
+</name>
+</assembly>
+<members>
+<member name="T:Payroll_Management_System.ReceiptDataSet.EmployeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Payroll_Management_System.ReceiptDataSet.PayrollDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Payroll_Management_System.ReceiptDataSet.EmployeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Payroll_Management_System.ReceiptDataSet.PayrollRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Payroll_Management_System.ReceiptDataSet.EmployeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Payroll_Management_System.ReceiptDataSet.PayrollRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Payroll_Management_System.ReceiptDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Payroll_Management_System.ReceiptDataSetTableAdapters.EmployeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Payroll_Management_System.ReceiptDataSetTableAdapters.PayrollTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Payroll_Management_System.ReceiptDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Payroll_Management_System.ReceiptDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Payroll_Management_System.ReceiptDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Payroll_Management_System.ReceiptDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Payroll_Management_System.ReceiptDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Payroll_Management_System.ReceiptDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Payroll_Management_System.ReceiptDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Payroll_Management_System.ReceiptDataSetTableAdapters.TableAdapterManager.UpdateAll(Payroll_Management_System.ReceiptDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Payroll_Management_System.ReceiptDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Payroll_Management_System.ReceiptDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Payroll_Management_System.ReceiptDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Payroll_Management_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Payroll_Management_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Payroll_Management_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Payroll_Management_System.PayrollDataSet.EmployeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Payroll_Management_System.PayrollDataSet.EmployeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Payroll_Management_System.PayrollDataSet.EmployeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Payroll_Management_System.PayrollDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Payroll_Management_System.PayrollDataSetTableAdapters.EmployeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Payroll_Management_System.PayrollDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Payroll_Management_System.PayrollDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Payroll_Management_System.PayrollDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Payroll_Management_System.PayrollDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Payroll_Management_System.PayrollDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Payroll_Management_System.PayrollDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Payroll_Management_System.PayrollDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Payroll_Management_System.PayrollDataSetTableAdapters.TableAdapterManager.UpdateAll(Payroll_Management_System.PayrollDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Payroll_Management_System.PayrollDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Payroll_Management_System.PayrollDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Payroll_Management_System.PayrollDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

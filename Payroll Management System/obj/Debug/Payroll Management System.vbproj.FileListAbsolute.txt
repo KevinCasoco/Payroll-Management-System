@@ -1,0 +1,12 @@
+c:\users\samsung\documents\visual studio 2012\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe.config
+c:\users\samsung\documents\visual studio 2012\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe
+c:\users\samsung\documents\visual studio 2012\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.pdb
+c:\users\samsung\documents\visual studio 2012\Projects\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.xml
+c:\users\samsung\documents\visual studio 2012\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.LogIn.resources
+c:\users\samsung\documents\visual studio 2012\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Resources.resources
+c:\users\samsung\documents\visual studio 2012\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.vbproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2012\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.exe
+c:\users\samsung\documents\visual studio 2012\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.xml
+c:\users\samsung\documents\visual studio 2012\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.pdb
+c:\users\samsung\documents\visual studio 2012\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Employee.resources
+c:\users\samsung\documents\visual studio 2012\Projects\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Payroll.resources
